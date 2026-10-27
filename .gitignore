@@ -1,3 +1,6 @@
 .env*
 .vercel/
 .claude/
+
+.vercel
+.env*
